@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">My First App</string>
+  <string name="hello_world">I will build this app from scratch!</string>
+  <string name="bye">GoodBye!!</string>
+  <string name="name">My name is Hector </string>
+    <string name="say_bye">Say bye!</string>
+</resources>
